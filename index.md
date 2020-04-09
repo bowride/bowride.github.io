@@ -9,10 +9,10 @@ Our Github Organization: https://github.com/bowride
 ## Milestone 1
 A link to our [first Milestone project board.](https://github.com/bowride/bowride/projects/1)
 
-## Current Progress
+# Current Progress
 
-# Landing Page Mockup
+## Landing Page Mockup
 <img src="doc/landing-mockup.jpg">
 
-# Home Page Mockup
+## Home Page Mockup
 <img src="doc/logged-in-user-mockup.jpg">
