@@ -30,7 +30,7 @@ A link to our [first Milestone project board.](https://github.com/bowride/bowrid
 <img src="doc/home-page.png">
 
 ## Log in page
-<img src="doc/Log-in.png">
+<img src="doc/log-in-page.png">
 
 ## Google maps page
 <img src="doc/Googlemaps.png">
