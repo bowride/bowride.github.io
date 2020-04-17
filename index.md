@@ -13,10 +13,10 @@ Our Github [Organization](https://github.com/bowride)
 * [Moseli Motsoehli](https://github.com/DeepsMoseli)
 
 ## Milestone 1
-A link to our [Second Milestone project board.](https://github.com/bowride/bowride/projects/2)
+A link to our [first Milestone project board.](https://github.com/bowride/bowride/projects/1)
 
 ## Milestone 2
-A link to our [first Milestone project board.](https://github.com/bowride/bowride/projects/1)
+A link to our [second Milestone project board.](https://github.com/bowride/bowride/projects/2)
 
 # Current Progress
 
