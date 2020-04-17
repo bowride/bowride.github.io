@@ -27,7 +27,7 @@ A link to our [first Milestone project board.](https://github.com/bowride/bowrid
 <img src="doc/logged-in-user-mockup.jpg">
 
 ## current Landing page
-<img src="doc/home-page.png">
+<img src="doc/landing-page.png">
 
 ## Log in page
 <img src="doc/log-in-page.png">
