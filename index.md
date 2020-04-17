@@ -13,6 +13,9 @@ Our Github [Organization](https://github.com/bowride)
 * [Moseli Motsoehli](https://github.com/DeepsMoseli)
 
 ## Milestone 1
+A link to our [Second Milestone project board.](https://github.com/bowride/bowride/projects/2)
+
+## Milestone 2
 A link to our [first Milestone project board.](https://github.com/bowride/bowride/projects/1)
 
 # Current Progress
@@ -22,3 +25,17 @@ A link to our [first Milestone project board.](https://github.com/bowride/bowrid
 
 ## Home Page Mockup
 <img src="doc/logged-in-user-mockup.jpg">
+
+## current Landing page
+<img src="doc/home-page.png">
+
+## Log in page
+<img src="doc/Log-in.png">
+
+## Google maps page
+<img src="doc/Googlemaps.png">
+
+react-google-maps requires  meteor npm install --save react-google-maps to run.
+
+## Driver sign up
+<img src="doc/Driver-signup.png">
