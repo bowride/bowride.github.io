@@ -50,7 +50,7 @@ export default class SimpleMap extends Component{
 
         <div className='ui center aligned container' style={{height: '80vh', width: '80vw'}}>
         <GoogleMapReact
-            bootstrapURLKeys={{ key: 'API_KEY_HERE'}}
+            bootstrapURLKeys='API_KEY_HERE'
             defaultCenter={{lat: 21.298872, lng: -157.817204}}
             defaultZoom={ 16 }
         >
@@ -75,22 +75,26 @@ Once the libraries are installed, you can run the application by invoking the "s
 $ meteor npm run start
 ```
 
-## Landing Page Mockup
-<img src="doc/landing-mockup.jpg">
+## Current Landing Page
+<img src="doc/M2-Landding.png">
 
-## Home Page Mockup
-<img src="doc/logged-in-user-mockup.jpg">
+## Login To Your Account
+<img src="doc/M2-Login.png">
 
-## current Landing page
-<img src="doc/landing-page.png">
+## Register For An Account
+<img src="doc/M2-Register.png">
 
-## Log in page
-<img src="doc/log-in-page.png">
+## Logged in
+<img src="doc/M2-Loggedin.png">
 
-## Google maps page
-<img src="doc/Googlemaps.png">
+## I Want To Drive
+<img src="doc/M2-iwanttodrive.png">
 
-react-google-maps requires  meteor npm install --save react-google-maps to run.
+## Drivers
+<img src="doc/M2-Drivers.png">
 
-## Driver sign up
-<img src="doc/Driver-signup.png">
+## Profile
+<img src="doc/M2-Profile.png">
+
+## Google Maps
+<img src="doc/M2-Map.png">
