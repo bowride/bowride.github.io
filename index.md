@@ -25,8 +25,6 @@ A link to our [second Milestone project board.](https://github.com/bowride/bowri
 ## Milestone 3
 A link to our [second Milestone project board.](https://github.com/bowride/bowride/projects/3)
 
-## Users Guide
-
 ## Developer Guide
 First, [install Meteor](https://www.meteor.com/install).
 
@@ -75,26 +73,28 @@ Once the libraries are installed, you can run the application by invoking the "s
 $ meteor npm run start
 ```
 
-## Current Landing Page
+## Users Guide
+
+* Current Landing Page
 <img src="doc/M2-Landding.png">
 
-## Login To Your Account
+* Login To Your Account
 <img src="doc/M2-Login.png">
 
-## Register For An Account
+* Register For An Account
 <img src="doc/M2-Register.png">
 
-## Logged in
+* Logged in
 <img src="doc/M2-Loggedin.png">
 
-## I Want To Drive
+* I Want To Drive
 <img src="doc/M2-iwanttodrive.png">
 
-## Drivers
+* Drivers
 <img src="doc/M2-Drivers.png">
 
-## Profile
+* Profile
 <img src="doc/M2-Profile.png">
 
-## Google Maps
+* Google Maps
 <img src="doc/M2-Map.png">
