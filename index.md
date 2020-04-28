@@ -12,7 +12,7 @@ Our Github [Organization](https://github.com/bowride)
 
 * [Don Maddock](https://don-maddock.github.io/)
 
-* [Jake Hiji](https://jakehiji.github.io/)
+* [Jake Hijirida](https://jakehiji.github.io/)
 
 * [Moseli Motsoehli](https://deepsmoseli.github.io/)
 
