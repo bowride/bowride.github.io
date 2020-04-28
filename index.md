@@ -114,3 +114,8 @@ Here is your profile
 <img src="doc/M2-Map.png">
 
 This is a map to find pick up locations for your rides.
+
+#### Admin Stats
+<img src="doc/M2-AdminStats.png">
+
+Here, the admin can see data on the apps usage.
