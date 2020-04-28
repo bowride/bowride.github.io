@@ -75,42 +75,42 @@ $ meteor npm run start
 
 ## Users Guide
 
-## Current Landing Page
+#### Current Landing Page
 <img src="doc/M2-Landding.png">
 
 This is the landing page, here you will find info about our web app. Use the top login button or sign up for an account.
 
-## Login To Your Account
+#### Login To Your Account
 <img src="doc/M2-Login.png">
 
 This is the log in screen where you log into your account.
 
-## Register For An Account
+#### Register For An Account
 <img src="doc/M2-Register.png">
 
 If you do not have an account already, you can register for an account on the sign up page.
 
-## Logged in
+#### Logged in
 <img src="doc/M2-Loggedin.png">
 
 This is the home page when you are signed in.
 
-## I Want To Drive
+#### I Want To Drive
 <img src="doc/M2-iwanttodrive.png">
 
 If you want to be a driver that day you can sign up to be a driver on this page.
 
-## Drivers
+#### Drivers
 <img src="doc/M2-Drivers.png">
 
 This is were all the drivers currently signed up are displayed.
 
-## Profile
+#### Profile
 <img src="doc/M2-Profile.png">
 
 Here is your profile
 
-## Google Maps
+#### Google Maps
 <img src="doc/M2-Map.png">
 
 This is a map to find pick up locations for your rides.
