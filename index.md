@@ -75,26 +75,28 @@ $ meteor npm run start
 
 ## Users Guide
 
-* Current Landing Page
+## Current Landing Page
 <img src="doc/M2-Landding.png">
 
-* Login To Your Account
+This is the landing page, here you will find info about our web app. Use the top login button or sign up for an account.
+
+## Login To Your Account
 <img src="doc/M2-Login.png">
 
-* Register For An Account
+## Register For An Account
 <img src="doc/M2-Register.png">
 
-* Logged in
+## Logged in
 <img src="doc/M2-Loggedin.png">
 
-* I Want To Drive
+## I Want To Drive
 <img src="doc/M2-iwanttodrive.png">
 
-* Drivers
+## Drivers
 <img src="doc/M2-Drivers.png">
 
-* Profile
+## Profile
 <img src="doc/M2-Profile.png">
 
-* Google Maps
+## Google Maps
 <img src="doc/M2-Map.png">
