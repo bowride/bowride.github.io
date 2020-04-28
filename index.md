@@ -22,6 +22,9 @@ A link to our [first Milestone project board.](https://github.com/bowride/bowrid
 ## Milestone 2
 A link to our [second Milestone project board.](https://github.com/bowride/bowride/projects/2)
 
+## Milestone 3
+A link to our [second Milestone project board.](https://github.com/bowride/bowride/projects/3)
+
 ## Users Guide
 
 ## Developer Guide
