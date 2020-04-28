@@ -39,7 +39,7 @@ $ meteor npm install
 
 Last, get a Google Maps API key by following the guide at [https://developers.google.com/maps/documentation/javascript/get-api-key](https://developers.google.com/maps/documentation/javascript/get-api-key) and place it in the [GoogleMaps.jsx file](https://github.com/bowride/bowride/blob/master/app/imports/ui/pages/GoogleMaps.jsx) where it says API_KEY_HERE.
 
-```jsx harmony
+```jsx
 export default class SimpleMap extends Component{
 
   render() {
