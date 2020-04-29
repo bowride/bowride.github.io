@@ -77,6 +77,8 @@ $ meteor npm run start
 
 #### Current Landing Page
 <img src="doc/M2_Landding_V2.png">
+scroll
+<img src="doc/M2_Landding2_V2.png">
 
 This is the landing page, here you will find info about our web app. Use the top login button or sign up for an account.
 
