@@ -95,28 +95,35 @@ If you do not have an account already, you can register for an account on the si
 
 This is the home page when you are signed in.
 
+#### Drivers
+<img src="doc/Final-ListDrivers.png">
+
+This is were all the drivers currently signed up are displayed. each driver i required to give their destination for easy picking.
+
 #### I Want To Drive
 <img src="doc/Final-I_Want_To_Drive.png">
 
 If you want to be a driver that day you can sign up to be a driver on this page.
 
-#### Drivers
-<img src="doc/Final-ListDrivers.png">
+#### Google Maps
+<img src="doc/Final-Maps.png">
 
-This is were all the drivers currently signed up are displayed.
+This is a map to find pick up locations for your rides. the markers display the general area for pick up locations for each destination as well as how many drivers are available for that destination.
+
+#### Google Maps _OnChildClick()
+<img src="doc/Final-Maps_OnClick.png">
+
+When you click the marker, An alert with some basic info about the pick up location will be displayed.
 
 #### Profile
 <img src="doc/Final-Profile.png">
 
-Here is your profile
+Here is your profile.
 
-#### Google Maps
-<img src="doc/Final-Maps.png">
+#### Edit Driver/Profile
+<img src="doc/Final-Edit_Profile.png">
 
-This is a map to find pick up locations for your rides.
-
-#### Google Maps _OnChildClick()
-<img src="doc/Final-Maps_OnClick.png">
+If you need to edit your drivers card or profile, you can do so here.
 
 #### Admin Stats
 <img src="doc/Final-Admin.png">
